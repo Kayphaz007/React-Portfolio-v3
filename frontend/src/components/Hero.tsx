@@ -3,7 +3,7 @@ import { FaGithub, FaLinkedinIn } from "react-icons/fa";
 
 import { styles } from "../styles";
 import { useEffect, useState } from "react";
-import { urlFor, client } from "../client";
+import { client } from "../client";
 
 // import { ComputersCanvas } from "./canvas";
 
