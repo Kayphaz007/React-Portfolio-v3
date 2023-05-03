@@ -1,8 +1,0 @@
-# name: Check build errors
-# on:
-#   push:
-#     branches: main
-# jobs:
-#   check-build-errors:
-#     runs-on: ubuntu-latest
-#     steps:
